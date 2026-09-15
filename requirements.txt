@@ -1,0 +1,11 @@
+# Core dependencies
+bitcoin>=1.1.42
+ecdsa>=0.18.0
+
+# Utilities
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Jupyter for Colab
+jupyter>=1.0.0
+ipython>=7.0.0
